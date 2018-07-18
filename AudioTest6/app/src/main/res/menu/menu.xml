@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_help_item"
+        android:title="帮助" />
+    <item
+        android:id="@+id/id_open_item"
+        android:title="打开文件" />
+</menu>
